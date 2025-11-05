@@ -58,12 +58,3 @@ Deployment
 - This project can be deployed to any WSGI-compatible host (Gunicorn + Nginx, Heroku, Render, Railway, etc.).
 - For production, serve static files via a web server (Nginx) or the platform's static file handling, and run the Flask app with Gunicorn (or equivalent).
 
-Contributing
-- Contributions, bug reports, and improvements are welcome. Please open an issue or submit a pull request.
-- Suggested improvements: add unit tests, add CI (GitHub Actions), add form validation and email integration, add responsiveness and accessibility improvements.
-
-License
-- No license specified. Add a LICENSE file if you want to define reuse terms.
-
-Notes
-- This README is intentionally generic because the repository may contain a different entrypoint or additional files. If you'd like, I can inspect the repository and update this README with exact commands and file names (for example the real app entrypoint, used dependencies, and screenshots).
